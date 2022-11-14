@@ -1,0 +1,8 @@
+Ulmeta,Esselunga,403,0.39,U246,
+Sprite,The Coca-Cola Company.,40,0.99,S200,
+Dr Pepper,Dr Pepper Snapple Group,505,1.79,D189,
+Fanta,The Coca-Cola Company.,8000,0.99,F211,
+Monster Energy,Monster Beverage,546,1.35,M218,
+Estathe,Estathe,484,0.89,E189,
+Coca-Cola,The Coca-Cola Company.,4541,0.99,C264,
+Schweppes,Dr Pepper Snapple Group,771,1.29,S212,

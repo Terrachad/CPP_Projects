@@ -1,0 +1,23 @@
+#include <iostream>
+#include <cmath>
+#include <string>
+
+using namespace std;
+
+void sayHi(string name, int age);
+
+
+int main()
+{
+    cout << "Top" << endl;
+    sayHi("Vlad", 21);
+    sayHi("Anna", 19);
+    cout << "Bottom" << endl;
+
+    return 0;
+}
+
+void sayHi(string name, int age)
+{
+    cout << "Hello "<< name << " you are " << age << endl;
+}

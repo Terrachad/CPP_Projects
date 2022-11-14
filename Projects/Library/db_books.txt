@@ -1,0 +1,5 @@
+Ulysses,James Joyce,1922,Jeri Johnson,24.99,
+Lord Of The Rings,J.R.R. Tolkien,1954,J.R.R. Tolkien,33.99,
+Harry Potter Chamber of Secrets,J.K. Rowlings,1998,J.K. Rowlings,24.99,
+Moby-Dick,Herman Melville,1851,Herman Melville,27.99,
+Complete Idiot's Guide to C++,Paul Snaith,1998,Alpha,24.99,

@@ -1,0 +1,39 @@
+#include <iostream>
+#include <cmath>
+#include <string>
+#include <array>
+
+using namespace std;
+
+int main()
+{
+    bool isMale = false;
+    bool isTall = false;
+
+    if(isMale && isTall){
+        cout<< "You are a tall male";
+    } else if (isMale){
+        cout<< "You are a male";
+    } else if (isTall) {
+        cout<< "You are tall";
+    } else if (!isTall && isMale){
+        cout<< "You are not tall but a male";
+    } else if (!isMale && isTall){
+        cout << "Your are tall but not a male";
+    } else {
+        cout<< "You are not a man nor tall";
+    }
+
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+

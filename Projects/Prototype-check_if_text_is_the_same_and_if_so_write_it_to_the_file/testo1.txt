@@ -1,0 +1,5 @@
+Hello i'm a good text what needs to be copied
+Hello i'm a second good text what needs to be copied
+Hello i'm a third good text what needs to be copied
+Error1 and i'm a bad text which need to stay in file1
+Proof what i've stopped
